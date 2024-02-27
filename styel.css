@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+ color: #f0a10e;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header img {
+    width: 350px;
+    border-radius: 10%;
+    margin-top: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #f0a10e;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 3px;
+    
+    
+    width: 100%;
+}
